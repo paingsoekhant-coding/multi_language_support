@@ -1,7 +1,7 @@
 ##### Multi Language Support With PHP.
 
-    language - English and French
+- language - English and French
 
 ##### Run Project
 
-- php -S localhost:8000
+php -S localhost:8000
